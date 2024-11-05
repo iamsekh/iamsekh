@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/assets/coder.gif" alt="Header Image" width="100%" />
+  <img src="/assets/coder.gif"/>
 </p>
 
 [![GitHub iamsekh](https://img.shields.io/github/followers/iamsekh?label=follow&style=social)](https://github.com/iamsekh)
