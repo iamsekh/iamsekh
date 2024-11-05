@@ -2,7 +2,7 @@
   <img src="/assests/coder.gif" height="340px"/>
 </p>
 <p align="center">
-  <a href="https://github.com/iamsekh" style="text-decoration: none;">
+  <a href="https://github.com/iamsekh" style="text-decoration: none !important;">
     <img src="https://img.shields.io/github/followers/iamsekh?label=follow&style=social" alt="GitHub Followers" />
   </a>
   <a href="https://www.linkedin.com/in/iamsekh/" style="text-decoration: none;">
