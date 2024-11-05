@@ -15,13 +15,13 @@
 
 <h1 align="center">Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> I AM TAHIRUDDIN SEKH</h1>
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style="display: flex; align-items: left; justify-content: space-between;">
   <div>
     <p><b>Welcome to my GitHub profile!</b> <br>
     Scroll down to find what I do, what I am doing, and what I am up to.</p>
   </div>
   <div>
-    <img src="/assests/coder.gif" height="150" style="margin-left: 20px;">
+    <img src="/assests/coder.gif" height="150">
   </div>
 </div>
 
