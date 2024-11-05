@@ -6,11 +6,11 @@
     <img src="https://img.shields.io/github/followers/iamsekh?label=follow&style=social" alt="GitHub Followers" text-decoration="none"/>
   </a>
   <a href="https://www.linkedin.com/in/iamsekh/">
-    <img src="https://img.shields.io/badge/-Tahiruddin%20Sk-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Profile" />
+    <img src="https://img.shields.io/badge/-Tahiruddin%20Sk-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Profile" text-decoration="none"/>
   </a>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=iamsekh&left_color=gray&right_color=blue" alt="Visitor Count" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=iamsekh&left_color=gray&right_color=blue" alt="Visitor Count" text-decoration="none"/>
   <a href="https://medium.com/@iamsekh">
-    <img src="https://img.shields.io/badge/-@Tahiruddin%20Sk-black?style=flat-square&labelColor=000000&logo=Medium" alt="Medium Profile" />
+    <img src="https://img.shields.io/badge/-@Tahiruddin%20Sk-black?style=flat-square&labelColor=000000&logo=Medium" alt="Medium Profile" text-decoration="none"/>
   </a>
 </p>
 
