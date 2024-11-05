@@ -1,7 +1,4 @@
 <p align="center">
-  <img src="/assests/coder.gif" height="340px"/>
-</p>
-<p align="center">
   <a href="https://github.com/iamsekh">
     <img src="https://img.shields.io/github/followers/iamsekh?label=follow&style=social" alt="GitHub Followers" />
   </a>
@@ -18,10 +15,12 @@
 
 <h1 align="center">Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> I AM TAHIRUDDIN SEKH</h1>
 
-<p align="center"><b>Welcome to my GitHub profile!</b> <br>
-Scroll down to find what I do, what I am doing, and what I am up to.<br>
-<br>
-
+<p align="left"><b>Welcome to my GitHub profile!</b> <br>
+Scroll down to find what I do, what I am doing, and what I am up to.<br></p>
+<p align="right">
+  <img src="/assests/coder.gif" height="140px"/>
+</p>
+  
 <p align="center"><b><hr>A Brief Introduction</b> <br>
 I'm Tahiruddin Sk, a dedicated and hardworking professional currently undergoing MERN Stack Developer Training. I completed my diploma in computer science engineering from Jahangirabad Institute of Technology, Barabanki, UP.</p>
 
