@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/assests/coder.gif" height="240px"/>
+  <img src="/assests/coder.gif" height="340px"/>
 </p>
 
 [![GitHub iamsekh](https://img.shields.io/github/followers/iamsekh?label=follow&style=social)](https://github.com/iamsekh)
