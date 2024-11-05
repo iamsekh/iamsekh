@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/iamsekh/iamsekh/blob/9e7ab96da0c7d8ce90e7724ed2bc1d93a1374f81/assests/Copy%20of%20linden%20banner.png)
+![MasterHead](https://octodex.github.com/tentocat/)
 [![GitHub iamsekh](https://img.shields.io/github/followers/iamsekh?label=follow&style=social)](https://github.com/iamsekh)
 [![Linkedin: iamsekh](https://img.shields.io/badge/-Tahiruddin%20Sk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iamsekh/)](https://www.linkedin.com/in/iamsekh/)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=iamsekh&left_color=gray&right_color=blue)
