@@ -15,7 +15,7 @@
 
 <h1 align="center">Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> I AM TAHIRUDDIN SEKH</h1>
 
-<p align="left"><b>Welcome to my GitHub profile!</b> <br>
+<p align="left" margin-top="40px"><b>Welcome to my GitHub profile!</b> <br>
 Scroll down to find what I do, what I am doing, and what I am up to.<br></p>
 <p align="right">
   <img src="/assests/coder.gif" height="200px"/>
