@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="/assests/coder.gif" alt="Header" />
+  <img src="./assets/coder.gif" alt="Header Image" width="100%" />
 </p>
-<!-- After Header banner -->
+
 [![GitHub iamsekh](https://img.shields.io/github/followers/iamsekh?label=follow&style=social)](https://github.com/iamsekh)
 [![Linkedin: iamsekh](https://img.shields.io/badge/-Tahiruddin%20Sk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iamsekh/)](https://www.linkedin.com/in/iamsekh/)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=iamsekh&left_color=gray&right_color=blue)
@@ -15,15 +15,15 @@ Scroll down to find what I do, what I am doing, and what I am up to.<br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/tahiruddinsk/">
-    <img width="30px" src="/assets/linkedin.svg" alt="LinkedIn" />
+    <img width="30px" src="./assets/linkedin.svg" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://twitter.com/i_amsekh">
-    <img width="28px" src="/assets/twitter.svg" alt="Twitter" />
+    <img width="28px" src="./assets/twitter.svg" alt="Twitter" />
   </a>  
   &nbsp;
   <a href="https://iamsekh.github.io">
-    <img width="28px" src="/assets/website.svg" alt="Website" />
+    <img width="28px" src="./assets/website.svg" alt="Website" />
   </a> 
 </div>
 
