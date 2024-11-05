@@ -18,7 +18,7 @@
 <p align="left"><b>Welcome to my GitHub profile!</b> <br>
 Scroll down to find what I do, what I am doing, and what I am up to.<br></p>
 <p align="right">
-  <img src="/assests/coder.gif" height="140px"/>
+  <img src="/assests/coder.gif" height="auto"/>
 </p>
   
 <p align="center"><b><hr>A Brief Introduction</b> <br>
