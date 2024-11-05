@@ -2,11 +2,18 @@
   <img src="/assests/coder.gif" height="340px"/>
 </p>
 <p align="center">
-[![GitHub iamsekh](https://img.shields.io/github/followers/iamsekh?label=follow&style=social)](https://github.com/iamsekh)
-[![Linkedin: iamsekh](https://img.shields.io/badge/-Tahiruddin%20Sk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iamsekh/)](https://www.linkedin.com/in/iamsekh/)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=iamsekh&left_color=gray&right_color=blue)
-[![Medium Badge](https://img.shields.io/badge/-@Tahiruddin%20Sk-black?style=flat-square&labelColor=0000&logo=Medium&link=https://medium.com/@iamsekh)](https://medium.com/@iamsekh)
+  <a href="https://github.com/iamsekh">
+    <img src="https://img.shields.io/github/followers/iamsekh?label=follow&style=social" alt="GitHub Followers" />
+  </a>
+  <a href="https://www.linkedin.com/in/iamsekh/">
+    <img src="https://img.shields.io/badge/-Tahiruddin%20Sk-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Profile" />
+  </a>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=iamsekh&left_color=gray&right_color=blue" alt="Visitor Count" />
+  <a href="https://medium.com/@iamsekh">
+    <img src="https://img.shields.io/badge/-@Tahiruddin%20Sk-black?style=flat-square&labelColor=000000&logo=Medium" alt="Medium Profile" />
+  </a>
 </p>
+
 
 <h1 align="center">Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> I AM TAHIRUDDIN SEKH</h1>
 
