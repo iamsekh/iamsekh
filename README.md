@@ -1,4 +1,4 @@
-![Header](https://octodex.github.com/tentocat/)
+![Header](<img src= "https://octodex.github.com/tentocat">)
 [![GitHub iamsekh](https://img.shields.io/github/followers/iamsekh?label=follow&style=social)](https://github.com/iamsekh)
 [![Linkedin: iamsekh](https://img.shields.io/badge/-Tahiruddin%20Sk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iamsekh/)](https://www.linkedin.com/in/iamsekh/)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=iamsekh&left_color=gray&right_color=blue)
