@@ -2,11 +2,11 @@
   <img src="/assests/coder.gif" height="340px"/>
 </p>
 <p align="center">
-  <a href="https://github.com/iamsekh" style="text-decoration: none !important;">
+  <a href="https://github.com/iamsekh">
     <img src="https://img.shields.io/github/followers/iamsekh?label=follow&style=social" alt="GitHub Followers" />
   </a>
   <a href="https://www.linkedin.com/in/iamsekh/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-Tahiruddin%20Sk-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Profile" />
+    <img src="https://img.shields.io/badge/-Tahiruddin%20Sk-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Profile" style="text-decoration: none;/>
   </a>
   <img src="https://visitor-badge.glitch.me/badge?page_id=iamsekh&left_color=gray&right_color=blue" alt="Visitor Count" />
   <a href="https://medium.com/@iamsekh" style="text-decoration: none;">
