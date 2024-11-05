@@ -24,7 +24,7 @@ Scroll down below to find what I do, what I am doing, and what I am up to.<br>
     <img width="28px" src="/assets/website.svg" alt="Website" />
   </a> 
 </div>
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 
 <br>
 
