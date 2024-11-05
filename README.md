@@ -2,8 +2,9 @@
 [![Linkedin: iamsekh](https://img.shields.io/badge/-Tahiruddin%20Sk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iamsekh/)](https://www.linkedin.com/in/iamsekh/)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=iamsekh&left_color=gray&right_color=blue)
 [![Medium Badge](https://img.shields.io/badge/-@Tahiruddin%20Sk-black?style=flat-square&labelColor=0000&logo=Medium&link=https://medium.com/@iamsekh)](https://medium.com/@iamsekh)
-<h1 align="center">Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> 🅸 🅰🅼 🆃🅰🅷🅸🆁🆄🅳🅳🅸🅽 🆂🅴🅺🅷
+<h1 align="left">Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> 🅸 🅰🅼 🆃🅰🅷🅸🆁🆄🅳🅳🅸🅽 🆂🅴🅺🅷
 </h1>
+<img src="https://octodex.github.com/images/tentocats.jpg" alt="Tentocats">
 <br>
   <p align="center" style="margin-top:10px">
 <b>
