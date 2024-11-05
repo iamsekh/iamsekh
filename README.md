@@ -4,7 +4,7 @@
 [![Medium Badge](https://img.shields.io/badge/-@Tahiruddin%20Sk-black?style=flat-square&labelColor=0000&logo=Medium&link=https://medium.com/@iamsekh)](https://medium.com/@iamsekh)
 <h1 align="left">Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> 🅸 🅰🅼 🆃🅰🅷🅸🆁🆄🅳🅳🅸🅽 🆂🅴🅺🅷
 </h1>
-<img src="https://octodex.github.com/images/tentocats.jpg" alt="Tentocats">
+< img align="right" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif"></img>
 <br>
   <p align="center" style="margin-top:10px">
 <b>
