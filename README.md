@@ -15,7 +15,7 @@
 
 
 
-<h1 align="center">Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> I AM TAHIRUDDIN SEKH</h1>
+<h1 align="center">Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">𐌉 𐌀𐌌 𐌕𐌀𐋅𐌉𐌓𐌵𐌃𐌃𐌉𐌍 𐌔𐌄𐌊𐋅 </h1>
 <p align="center">
   <img src="/assests/coder.gif" height="200px"/>
 </p>
