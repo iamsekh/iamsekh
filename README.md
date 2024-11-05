@@ -3,7 +3,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/iamsekh">
-    <img src="https://img.shields.io/github/followers/iamsekh?label=follow&style=social" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/iamsekh?label=follow&style=social" alt="GitHub Followers" text-decoration="none"/>
   </a>
   <a href="https://www.linkedin.com/in/iamsekh/">
     <img src="https://img.shields.io/badge/-Tahiruddin%20Sk-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Profile" />
