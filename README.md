@@ -1,4 +1,6 @@
 <p align="center">
+  <img src="/assests/profile_header.png"></img></p>
+<p align="center">
   <a href="https://github.com/iamsekh">
     <img src="https://img.shields.io/github/followers/iamsekh?label=follow&style=social" alt="GitHub Followers" />
   </a>
