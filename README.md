@@ -20,22 +20,6 @@
 
 <p align="center"><b>Welcome to my GitHub profile!</b> <br>
 Scroll down to find what I do, what I am doing, and what I am up to.<br>
-<i>Let's Connect:</i></p>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/tahiruddinsk/">
-    <img width="30px" src="./assets/linkedin.svg" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/i_amsekh">
-    <img width="28px" src="./assets/twitter.svg" alt="Twitter" />
-  </a>  
-  &nbsp;
-  <a href="https://iamsekh.github.io">
-    <img width="28px" src="./assets/website.svg" alt="Website" />
-  </a> 
-</div>
-
 <br>
 
 <p align="center"><b><hr>A Brief Introduction</b> <br>
