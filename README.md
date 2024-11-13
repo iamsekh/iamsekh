@@ -10,7 +10,7 @@
 <!--   <img src="https://visitor-badge.glitch.me/badge?page_id=iamsekh&left_color=gray&right_color=blue" alt="Visitor Count" />
    -->
   <a href="https://medium.com/@iamsekh">
-    <img src="https://img.shields.io/badge/-@Tahiruddin%20Sk-black?style=flat-square&labelColor=ffffff&logo=Medium" alt="Medium Profile" />
+    <img src="https://img.shields.io/badge/-@Tahiruddin%20Sk-white?style=flat-square&labelColor=ffffff&logo=Medium" alt="Medium Profile" />
   </a>
 </p>
 
